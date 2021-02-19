@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IvanMitrevski
 - 👀 I’m interested in coding !important, drawing, playing video games, and self-improvement... for now.
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, and soon I want to start learning Angular.
+- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, and soon I want to start learning about JS frameworks.
 - 💞️ I’m looking to collaborate on any project that will make me understand how the IT industry works.
 - 📫 Reach me by mail/skype (mitrevski.ivan@hotmail.com)
 
